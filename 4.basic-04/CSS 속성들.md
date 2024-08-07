@@ -1,4 +1,4 @@
-CSS 속성들
+## CSS 속성들
 
 background-color : 백그라운드 색을 지정한다.
 
